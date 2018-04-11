@@ -1,0 +1,9 @@
+2018-04-11:
+
+几个概念名词：
+RDF （resource description framework) 资源描述框架
+SPO (subject - predicate - object) 三元组
+
+IRIs (international resource identifiers），blank nodes , literals 三种类型
+
+
