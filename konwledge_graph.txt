@@ -6,4 +6,7 @@ SPO (subject - predicate - object) 三元组
 
 IRIs (international resource identifiers），blank nodes , literals 三种类型
 
-
+RDFS/OWL序列化方式和RDF没什么不同，其在表现形式上，他们就是RDF。其常用的方式主要就是RDF/XML，Turtle 
+通常，我们使用小写开头的单词或者词组来表示属性，大写开头表示类.
+数据属性（data property）-即实体（IRIs）和字面词（literal）的关系，通常使用名词组成;
+对象属性（object property） -即实体（IRIs）和实体（IRIs）之间的关系，通常由动词（has，is之类的）加名词组成.
