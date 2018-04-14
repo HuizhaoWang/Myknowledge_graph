@@ -12,5 +12,3 @@ RDFS/OWL序列化方式和RDF没什么不同，其在表现形式上，他们就
 数据属性（data property）-即实体（IRIs）和字面词（literal）的关系，通常使用名词组成;
 对象属性（object property） -即实体（IRIs）和实体（IRIs）之间的关系，通常由动词（has，is之类的）加名词组成.
 
-
-2018-04-12 下午 2:30:
