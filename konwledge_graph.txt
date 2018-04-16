@@ -3,12 +3,10 @@
 几个概念名词：
 RDF （resource description framework) 资源描述框架
 SPO (subject - predicate - object) 三元组
-<<<<<<< HEAD
+
 RDFS (resource description framework schema)
 OWL(web ontology language)
-=======
 RIF (rule interchange format) 规则交换格式
->>>>>>> cf3f101bceb776fc12afb126ee70321843a991d7
 
 IRIs (international resource identifiers），blank nodes , literals 三种类型
 
@@ -17,10 +15,7 @@ RDFS/OWL序列化方式和RDF没什么不同，其在表现形式上，他们就
 数据属性（data property）-即实体（IRIs）和字面词（literal）的关系，通常使用名词组成;
 对象属性（object property） -即实体（IRIs）和实体（IRIs）之间的关系，通常由动词（has，is之类的）加名词组成.
 
-<<<<<<< HEAD
 RDFS当中不区分数据属性和对象属性，词汇rdf:Property定义了属性，即RDF的“边”.
 
 OWL区分数据属性和对象属性（对象属性表示实体和实体之间的关系）。
 词汇owl:DatatypeProperty定义了数据属性，owl:ObjectProperty定义了对象属性。
-=======
->>>>>>> cf3f101bceb776fc12afb126ee70321843a991d7
